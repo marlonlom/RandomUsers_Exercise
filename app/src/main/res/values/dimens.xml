@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_item_image_height">160dp</dimen>
+    <dimen name="dimen_item_image_width">140dp</dimen>
+    <integer name="int_listings_columns">3</integer>
+</resources>

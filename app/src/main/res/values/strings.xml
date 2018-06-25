@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomUsers</string>
+    <string name="title_activity_list">Users list</string>
+    <string name="title_activity_detail">User details</string>
+</resources>
